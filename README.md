@@ -19,7 +19,7 @@ To extract **12-week** NPTEL courses related to **Computer Science and Engineeri
    - Discipline contains "Computer Science and Engineering"
    - Duration is "12" weeks
    - Course level is "UG"
-3. Exports the result to an Excel file.
+3. Exports the result to an Excel/csv file.
 
 ## 📌 Requirements
 
