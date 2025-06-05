@@ -31,12 +31,13 @@ To extract **12-week** NPTEL courses related to **Computer Science and Engineeri
 
 ```bash
 pip install pandas openpyxl
-🧠 Use Cases
+```
+## 🧠 Use Cases
 College students planning their NPTEL schedule.
 
 Academic coordinators filtering course data.
 
 Data enthusiasts analyzing trends in NPTEL offerings.
 
-✍️ Author
+## ✍️ Author
 Prince Patek
