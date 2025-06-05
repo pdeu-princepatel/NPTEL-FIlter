@@ -40,4 +40,4 @@ Academic coordinators filtering course data.
 Data enthusiasts analyzing trends in NPTEL offerings.
 
 ## ✍️ Author
-Prince Patek
+Prince Patel
